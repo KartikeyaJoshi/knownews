@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Hindustan Times",
+        "title": "Neeraj Chopra in Olympics 2024 final LIVE: Golden Boy set to emulate Zelezny - Hindustan Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdnpnSWw3cGNJUDA3dXUzYkxJTVNJekt6YW1taktkY0JPUEZObC0wN0s5cVNIUTlFbVhEbjRiUlBCMW9SOVlvRTA1elhDMm5nYkstZk9KeDRQRnBrem01eFZ4TzFQdWNOZ2tQZUphdV9LbW1XZU9pWmhmQ3REQnpLLW9wZG9LMFAza0dzTTVCUFZGdmpJbzN2aTlMU2FqQVp2RENMRHhMMVpLb3BzQUllT3gyMFVTdWhUSW9YVklYeWtqbEhNQ3RsOVRBR1BkZWYwR21iWC1sNTJtcm4wWWFGVllQWUIyQzhDUm81ZHNWUHJ1eXZXZXJ0cXNqb0wtZTYxcXpMVVBjTmxUaDhSVXZ0WURGd2lDZmvSAZwCQVVfeXFMUE1KY0swWTYzLTR0REdmS1pUVTF1RDBRbTZidmFXa3BlV0I3VlNtQ0VmWHhhTnYtb2QxMlF0MEVfWXJYTE1OMTR4YjUtMkRWT3JDMFZZY2lIb0xhTndhOEpibVRlTzc1YzFMZi1jeXVmem1nQXNwRXRNUmlyaVRTWjFYLUNsN3c2QlNYMjdpdWZSeWxMWW9PaklxTUZ5bFJIMDNxc3BERDBwXzd2emxneHJXUk5WcHFLNFJyR29tbExMRU91LUswN2wwVUwtTFBGS2Ytc2l2VlFBdWFfVkhMd1JUTk9HQmJybUF3YTJabTE1VkpPc2l0Vzc4T3l5WThnR0s2WVlaU2lqM2h4ekdJOXNmTG1UTjF5bjJWR04?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-08T18:23:35Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Times of India",
+        "title": "Hockey India announces cash prize for Paris Olympics bronze medal winning team - The Times of India",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNLXNoVlpiVGt1T2RaN0UyVEtNYmxxc3ZKNjlQbldhLVVhbkpmLTFPajhuVGJjbG5Ld091c1UtRHpHQy1JcHJxWWZjd096TDRqdE9aMWoxUnVNcllDcFJOanV6Q1hiSVBBRk80VHVkZm5FV3YyWXVGajc3RmRUTWxmT0o0RW9BRFZMRTFBeDgxejFFWG1NVWRWeWNyMlBLRHptZHdBMWtoOVJpZjRtQUstSVhOSkE5N0o2RzZMVk1yYzd0ZU9RQVgydFhIWTViOC1LYVpVcnhkbGtOMm9kNTdRSUp0djB4OS1FaGZjMXZvSXBvQlJ2VUtWLVNhdlZhTHF3N1hKLWNQQTZCd9IBjwJBVV95cUxNdW00WDB5VFpUbF9PekJJRkRYbWZINFY0WVRfMGNRRy1PSDk3S1o5NXJWQkljamlTZnNnODlveDhOc1hnNjI4MDFPMVNWdEFocjNpQ095cGh5RndHUWJwWEY4amhkUS1jUUhNdkhtR2pfa2FLaG5NS0NFRGwzZmhLSnFtbGltek9pdEtnZWNvdGVWZVNVTE55cjYtQ1pMS2ZGYTBueHFYYmc2d0ZDVklTWmtvSnlpb3g1RlEwYV9EWFA5Q0lXXzAwTy1aSkt1VU51YVlNOHFzUk04Wkp4SkhzVFpZNE5kWGs2cGh3NjNUdWw3d29RdVdwOGVNMDZsS1d1YmZoZG1fSGVqOTE0LS1n?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-08T17:47:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "India Today",
+        "title": "Olympics: Aman Sehrawat to fight for Bronze after losing wrestling semi-final - India Today",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSUthS0piTmdLS0h4Q2ZHekJTQVpQNWs4ZVl6bFhHZXFZampCWW40N0Z2WWxzckJ0T0pjRjB1Y0hYZU1RMWhaSTZSUnZmV0dGNVBZTnluU1FOX194dzVmMmVTZy1wR29zQnpzTUJoeGp2VUJKM1lkZEtMeEdhVlYzRzFxVTdzelctYXNobzV2ZmZNTkczMXpUbU4tRlVab1lOZnZMYTVPRm04enMwclhyNUZ4dDlxVWUwWnJvRWxvdmlHc2JzZTBBSEhLaUFJRXdkQmdhMjR6UdIB3AFBVV95cUxOZUNxb2xZZ3hKNGRCU2FqSmFraGZnV1UxZnZUMnJTb1dINFpERFNnd3lkYllRUElOLWJGTU50OE9IcUZiakFsYkhoTzFtNU9jckllS0lRUEU0bVJPLW1oUHBRUjZTMEJWNDZBa3dVbkNqWW5hV1F3NnEyVVN5MXRTQXNmb3ZIM21tQlVseFVudVdtRVVGUFdOdmJaNFZxZzRWMlZTVW9vUEtfb0t6UjQwMUlOTk9KeXBkNDJxVTJ6UXhTVHl0QUlQZDFER29LV2lpVkI0TVlfSDNSZVRr?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-08T16:40:23Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Mint",
+        "title": "Vinesh Phogat's disqualification: Wrestler's plea for Silver medal at Olympics to be heard tomorrow | Mint - Mint",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORVp3U2Z3anpoeWFfaWpwV0lZMEtmZHF3ME12c3BkOWxMaHFVWW1nUS04Vm52ejVZUXZtSW0xS05XakNwekFINjF6NlltMVNIRTRDQVctVTB4OTdZM0ZKWnpsTUdDU3NhOThjMkR1YzdFb0EwYXM1eUQyOWNyZmV4Znc5MlI2Z1JtUFJ4RFl2X1VzR2FqRnpKTm5mQ3JTUmRzLXptWmlhV2d6RHJ3c0k0V0xmZVVxMFVTdHh4ZU45UV9zUTkxbHlHWkd4TUZBSGdoZ0llVUF4QXV6dEEwaFlzdHZWeDZocHg4SkNlMHlqVVJnUXZK0gH6AUFVX3lxTE84OFVWY2pILWRRWDI4THE0Y1hKVncxd0tfQWctMFlDYkpvc1h5Sk5oMnVFUy1IdVpHcWlNODYtMzcteHBRNUFTcFcyOVlCWlVNdlJxLWJXd2Z2VDliYzJmcEktVS1VX09vSmJTTlF5ZGN0ZGhTWG5ZdVhFOXFIYzJCQjdUV3dzeFpnWjNrWE1wQ2ZoYlJRQ0VsMDZ0OUp4VnZwb3V1bW91WkpJcW1ZOE5jQWd6N2U1Qm9tTFFnak9QUWRfdHg5a19vQndldDJVUWpZdWhUVFpxa2VkdE9HTFJHYzNDOURrSzEtczdFMTFkOXlVUnd1THhiZUE?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-08T15:51:10Z",
+        "content": null
+      }
+    ]
+  }
